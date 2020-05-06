@@ -1,0 +1,2 @@
+# HospitalManagmentClient
+HospitalManagmentClient service
